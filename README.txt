@@ -1,0 +1,24 @@
+📄
+
+
+   - NEXT_PUBLIC_SUPABASE_URL-https://ixvgefnjforuulgaftxo.supabase.co
+   - NEXT_PUBLIC_SUPABASE_ANON_KEY-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml4dmdlZm5qZm9ydXVsZ2FmdHhvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc5NDk5OTgsImV4cCI6MjA2MzUyNTk5OH0.0PdGT31puOTUHz1xgcxRcmFxQc5CrQnokBIXog4pcTw
+
+
+   - OPENAI_API_KEY-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
+
+MERCADO_PAGO_ACCESS_TOKEN=APP_USR-3887055225694201-101008-2455b2e1dab71d2067e7e52fdd03182e-1292989924
+MERCADO_PAGO_PUBLIC_KEY=APP_USR-d0a9893e-cf10-4514-a73c-f81245f649f5
+MERCADO_PAGO_CLIENT_ID=3887055225694201
+MERCADO_PAGO_CLIENT_SECRET=muwy9jfSJSerBFFv8U0xtR8PX5cfkMgc
+
+next_public_emailjs_service_id: Uy4pakr9fTqZFPsfv
+
+next_public_emailjs_template_id: IgTcBrQEFg9qOX4_EmoEb
+
+next_public_emailjs_user_id: Uy4pakr9fTqZFPsfv
+
+
+
+
+
